@@ -1,6 +1,8 @@
 Posit Connect on RHEL 8 Setup Notes
 ---------------------------------------------------------
 
+Please note that these notes were taken a few months ago and that the versions of all products should be checked and updated to the latest available, or whatever versions your data science team uses.
+
 ## Setup VM
 - Software Image (AMI)
 - Red Hat Enterprise Linux 8
