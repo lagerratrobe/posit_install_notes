@@ -85,6 +85,8 @@ $ geos-config --version
 
 ### Install Quarto
 
+See - https://docs.posit.co/resources/install-quarto/.
+
 ```
 #prep
 $ export QUARTO_VERSION="1.3.450"
